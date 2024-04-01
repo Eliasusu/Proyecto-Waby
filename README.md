@@ -8,12 +8,14 @@ Repo del proyecto para la materia Desarrollo de software (DSW)
 - [ ] Colocar nombre al proyecto
 - [ ] Armar diagrama de clases
 - [ ] Elegir que framework se utilizará para el FE y BE
+- [ ] Crear repositorio "Fullstack app"
 - [ ] Hacer el codigo BE de 1 CRUD (calculo que es el CRUD de una sola clase)
 
 ## Links de utilidad 🔗
 - <a href = "https://github.com/utnfrrodsw/desarrollo-de-software" target = "_blank">Repo de DSW</a>
 - <a href = "https://www.markdownguide.org/basic-syntax/#blockquotes-with-other-elements" target = "_blank">Sintaxis basica Markdown</a>
-- <a href="https://github.com/utnfrrodsw/tp/blob/main/proposal.md">Plantilla presentación del proyecto</a>
+- <a href ="https://github.com/utnfrrodsw/tp/blob/main/proposal.md">Plantilla presentación del proyecto</a>
+- <a href = "">Fullstack app repositorio</a>
 
  ## Fechas de entregas 📅
 > ### Trabajo practico 
