@@ -9,7 +9,7 @@ Repo del proyecto para la materia Desarrollo de software (DSW)
 - [ ] Hacer el codigo BE de 1 CRUD (calculo que es el CRUD de una sola clase)
 
 ## Links de utilidad 🔗
-- https://github.com/utnfrrodsw/desarrollo-de-software
+- <a href = "https://github.com/utnfrrodsw/desarrollo-de-software" target = "_blank">Repo de DSW</a>
 
 ## Fechas de entregas 📅
 ### Trabajo practico 
