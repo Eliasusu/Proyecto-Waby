@@ -5,6 +5,7 @@ Repo del proyecto para la materia Desarrollo de software (DSW)
 
 ## Tareas previas 📃
 - [ ] Elegir que software vamos a desarrollar
+- [ ] Agregar descripción al proyecto
 - [ ] Colocar nombre al proyecto
 - [ ] Armar diagrama de clases
 - [ ] Elegir que framework se utilizará para el FE y BE
