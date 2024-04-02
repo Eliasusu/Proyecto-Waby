@@ -1,7 +1,7 @@
 # Proyecto "Nombre pendiente 💭" 
 Repo del proyecto para la materia Desarrollo de software (DSW)
 > ## Descripción del Proyecto
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae justo maximus, hendrerit ante in, fermentum purus. Maecenas neque dui, vulputate non risus ut, molestie euismod mauris. Nam scelerisque nulla vel velit lacinia consectetur. Mauris eget ultricies nunc. Vivamus eros odio, rutrum sed elit eu, tristique fermentum augue. Nulla porttitor varius orci, vitae viverra lorem bibendum eu. Pellentesque suscipit hendrerit elit vel consectetur. Phasellus hendrerit auctor suscipit. Nam a dapibus turpis. Quisque id arcu sapien. In imperdiet lacus nec euismod commodo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; In mattis ac magna sed tincidunt. 
+> 
 
 ## Tareas previas 📃
 - [ ] Elegir que software vamos a desarrollar
@@ -17,6 +17,7 @@ Repo del proyecto para la materia Desarrollo de software (DSW)
 - <a href = "https://www.markdownguide.org/basic-syntax/#blockquotes-with-other-elements" target = "_blank">Sintaxis basica Markdown</a>
 - <a href ="https://github.com/utnfrrodsw/tp/blob/main/proposal.md">Plantilla presentación del proyecto</a>
 - <a href = "">Fullstack app repositorio</a>
+- <a href = "https://github.com/airbnb/javascript" >Sintaxis javascript</a>
 
  ## Fechas de entregas 📅
 > ### Trabajo practico 
