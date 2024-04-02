@@ -25,7 +25,7 @@ Repo del proyecto para la materia Desarrollo de software (DSW)
 - <a href = "https://github.com/utnfrrodsw/desarrollo-de-software" target = "_blank">Repo de DSW</a>
 - <a href = "https://www.markdownguide.org/basic-syntax/#blockquotes-with-other-elements" target = "_blank">Sintaxis basica Markdown</a>
 - <a href ="https://github.com/utnfrrodsw/tp/blob/main/proposal.md">Plantilla presentación del proyecto</a>
-- <a href = "">Fullstack app repositorio</a>
+- <a href = "https://github.com/FR4NKK0/WabyAPP">Fullstack app repositorio</a>
 - <a href = "https://github.com/airbnb/javascript">Sintaxis javascript</a>
 
  ## Fechas de entregas 📅
