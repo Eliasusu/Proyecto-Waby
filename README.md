@@ -9,7 +9,7 @@ Repo del proyecto para la materia Desarrollo de software (DSW)
 - [x] Colocar nombre al proyecto?
 - [ ] Armar diagrama de clases
 - [ ] Elegir que framework se utilizará para el FE y BE
-- [ ] Crear repositorio "Fullstack app"
+- [x] Crear repositorio "Fullstack app"
 - [ ] Hacer el codigo BE de 1 CRUD (calculo que es el CRUD de una sola clase)
 
 ## Brainstorm 🧠 
