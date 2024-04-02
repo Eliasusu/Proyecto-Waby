@@ -5,12 +5,15 @@ Repo del proyecto para la materia Desarrollo de software (DSW)
 
 ## Tareas previas 📃
 - [ ] Elegir que software vamos a desarrollar
-- [ ] Agregar descripción al proyecto
-- [ ] Colocar nombre al proyecto
+- [x] Agregar descripción al proyecto
+- [x] Colocar nombre al proyecto?
 - [ ] Armar diagrama de clases
 - [ ] Elegir que framework se utilizará para el FE y BE
 - [ ] Crear repositorio "Fullstack app"
 - [ ] Hacer el codigo BE de 1 CRUD (calculo que es el CRUD de una sola clase)
+
+## Brainstorm 🧠 
+- 
 
 ## Links de utilidad 🔗
 - <a href = "https://github.com/utnfrrodsw/desarrollo-de-software" target = "_blank">Repo de DSW</a>
