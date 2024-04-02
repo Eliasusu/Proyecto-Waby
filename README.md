@@ -13,6 +13,11 @@ Repo del proyecto para la materia Desarrollo de software (DSW)
 - [ ] Hacer el codigo BE de 1 CRUD (calculo que es el CRUD de una sola clase)
 
 ## Brainstorm 🧠 
+- Seguimiento de actividad (estilo github)
+- Mensaje del día
+- Listas de spotify vinculadas a rutinas
+- Vinculamos MELI (suplementos)
+- Modo Premium??
 - 
 
 ## Links de utilidad 🔗
@@ -20,7 +25,7 @@ Repo del proyecto para la materia Desarrollo de software (DSW)
 - <a href = "https://www.markdownguide.org/basic-syntax/#blockquotes-with-other-elements" target = "_blank">Sintaxis basica Markdown</a>
 - <a href ="https://github.com/utnfrrodsw/tp/blob/main/proposal.md">Plantilla presentación del proyecto</a>
 - <a href = "">Fullstack app repositorio</a>
-- <a href = "https://github.com/airbnb/javascript" >Sintaxis javascript</a>
+- <a href = "https://github.com/airbnb/javascript">Sintaxis javascript</a>
 
  ## Fechas de entregas 📅
 > ### Trabajo practico 
