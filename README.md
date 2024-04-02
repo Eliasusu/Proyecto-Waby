@@ -1,7 +1,7 @@
-# Proyecto "Nombre pendiente 💭" 
+# Proyecto "Waby" 
 Repo del proyecto para la materia Desarrollo de software (DSW)
 > ## Descripción del Proyecto
-> 
+> Aplicación enfocada al seguimiento de ejercicios de calistenia y gimnasio. Brinda al usuario las herramientas para registrar su progreso en diferentes ejercicios, tambien está enfocada para entrenadores/monitores con el fin de crear rutinas para los alumnos. 
 
 ## Tareas previas 📃
 - [ ] Elegir que software vamos a desarrollar
