@@ -7,7 +7,7 @@ Repo del proyecto para la materia Desarrollo de software (DSW)
 - [x] Elegir que software vamos a desarrollar
 - [x] Agregar descripción al proyecto
 - [x] Colocar nombre al proyecto?
-- [ ] Armar diagrama de clases
+- [x] Armar diagrama de clases
 - [ ] Elegir que framework se utilizará para el FE y BE
 - [x] Crear repositorio "Fullstack app"
 - [ ] Hacer el codigo BE de 1 CRUD (calculo que es el CRUD de una sola clase)
