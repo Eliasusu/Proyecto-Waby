@@ -29,6 +29,7 @@ Repo del proyecto para la materia Desarrollo de software (DSW)
 - <a href = "https://github.com/airbnb/javascript">Sintaxis javascript</a>
 
  ## Fechas de entregas 📅
+ Se retrasaron 2 semanas todas las entregas‼️
 > ### Trabajo practico 
 > - 8/4 -> Entregar enunciado del TP de Desarrollo y elegir CRUD de siguiente entrega.
 > - 17/5 -> Desarrollar y entregar el código de 1 CRUD en back-end (en memoria, sin persistencia)
