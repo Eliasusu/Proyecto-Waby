@@ -4,12 +4,7 @@ Repo del proyecto para la materia Desarrollo de software (DSW)
 > Aplicación enfocada al seguimiento de ejercicios de calistenia y gimnasio. Brinda al usuario las herramientas para registrar su progreso en diferentes ejercicios, tambien está enfocada para entrenadores/monitores con el fin de crear rutinas para los alumnos. 
 
 ## Tareas previas 📃
-- [x] Elegir que software vamos a desarrollar
-- [x] Agregar descripción al proyecto
-- [x] Colocar nombre al proyecto?
-- [x] Armar diagrama de clases
 - [ ] Elegir que framework se utilizará para el FE y BE
-- [x] Crear repositorio "Fullstack app"
 - [ ] Hacer el codigo BE de 1 CRUD (calculo que es el CRUD de una sola clase)
 
 ## Brainstorm 🧠 
