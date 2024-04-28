@@ -34,6 +34,7 @@ Repo del proyecto para la materia Desarrollo de software (DSW)
 > - 8/4 -> Entregar enunciado del TP de Desarrollo y elegir CRUD de siguiente entrega.
 > - 17/5 -> Desarrollar y entregar el código de 1 CRUD en back-end (en memoria, sin persistencia)
 > - 14/6 -> Desarrollar y entregar el código de 1 CRUD x integrante en back-end COMPLETO (con acceso a BD incluido)
+### Las fechas de entregas siguientes están pendiente de reorganizar por Meca
 > - 14/6 -> Entregar boilerplate del front-end
 > - 22/7 -> Desarrollar y entregar el código un GET ALL desde el front-end al back-end ya desarrollado antes (listar múltiples elementos de una colección).
 > - 13/8 -> Desarrollar y entregar 1 CRUD completo front-end + back-end (todas las operaciones de CRUD).
