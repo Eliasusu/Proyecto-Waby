@@ -16,10 +16,7 @@ Repo del proyecto para la materia Desarrollo de software (DSW)
 - Seguimiento de actividad (estilo github)
 - Mensaje del día
 - Listas de spotify vinculadas a rutinas
-- Vinculamos MELI (suplementos)??
-- Modo Premium??
 - Tipo de cuentas (hibrido -> entrenador/estudiante)
-- Vincular whatsapp para compartir rutinas
 
 ## Links de utilidad 🔗
 - <a href = "https://github.com/utnfrrodsw/desarrollo-de-software" target = "_blank">Repo de DSW</a>
