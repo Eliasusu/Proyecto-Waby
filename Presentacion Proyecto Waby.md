@@ -14,7 +14,7 @@ Aplicación enfocada al seguimiento de ejercicios de calistenia y gimnasio. Brin
 
 ### Modelo 
 <picture>
-  <img src = "https://github.com/Eliasusu/Proyecto-Waby/blob/main/Waby%20diagrama%20de%20clases.drawio.png">
+  <img src = "https://github.com/Eliasusu/Proyecto-Waby/blob/main/Waby%20diagrama%20de%20clases.png">
 </picture>
 
 ## Alcance funcional
