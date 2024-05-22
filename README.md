@@ -5,7 +5,7 @@ Repo del proyecto para la materia Desarrollo de software (DSW)
 
 ## Tareas pendientes 📃
 - [x] Elegir que framework se utilizará para el FE y BE
-- [ ] Hacer el codigo BE de 1 CRUD (calculo que es el CRUD de una sola clase)
+- [x] Hacer el codigo BE de 1 CRUD (calculo que es el CRUD de una sola clase)
 
 ## Brainstorm 🧠 
 - Seguimiento de actividad (estilo github)
