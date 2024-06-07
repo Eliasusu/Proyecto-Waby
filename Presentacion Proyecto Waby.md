@@ -22,10 +22,10 @@ Aplicación enfocada al seguimiento de ejercicios de calistenia y gimnasio. Brin
 ### Alcance minimo
 |Req|Detalle|
 |:-|:-|
-|CRUD simple|1. CRUD Usuario<br>2. CRUD Ejercicios|
-|CRUD dependiente|1. CRUD Usuario {depende de} CRUD Tipo entrenamiento|
+|CRUD simple|1. CRUD Usuario<br>2. CRUD Ejercicio|
+|CRUD dependiente|1. CRUD Entrenamiento {depende de} CRUD Usuario y CRUD Ejercicio|
 |Listado<br>+<br>detalle| 1. Listado de ejercicios filtrados por grupo muscular y entrenamiento (Calistenia/gimnasio) a la hora de crear rutrinas|
-|CUU/Epic|1. Registrar usuario|
+|CUU/Epic|1. Crear rutina|
 
 
 ### Adicionales para Aprobación
