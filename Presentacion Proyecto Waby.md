@@ -40,6 +40,6 @@ En progreso
 
 |Req|Detalle|
 |:-|:-|
-|Listados ||
-|CUU/Epic||
+|Listados |1. Listar ejercicios filtrando por grupo muscular y (dependiendo del usuario) tipo de entrenamiento<br>|
+|CUU/Epic|1. Generar un nuevo mesociclo<br>2. Crear rutina<br>3. Ingresar una meta<br>4. Ingresar un progeso|
 |Otros||
