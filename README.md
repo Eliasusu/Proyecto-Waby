@@ -3,6 +3,9 @@ Repo del proyecto para la materia Desarrollo de software (DSW)
 > ## Descripción del Proyecto
 > Aplicación enfocada al seguimiento de ejercicios de calistenia y gimnasio. Brinda al usuario las herramientas para registrar su progreso en diferentes ejercicios, tambien está enfocada para entrenadores/monitores con el fin de crear rutinas para los alumnos. 
 
+### Concepto gráfico
+>https://www.figma.com/proto/DGI2n58dFG3jgukQh3O7ny/Waby-%F0%9F%92%AA%F0%9F%8F%BB?node-id=0-1&t=8Wk2amQxUilviQzy-1
+
 ## Tareas pendientes 📃
 - [x] Elegir que framework se utilizará para el FE y BE
 - [x] Hacer el codigo BE de 1 CRUD (calculo que es el CRUD de una sola clase)
