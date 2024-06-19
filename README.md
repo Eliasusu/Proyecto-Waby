@@ -4,10 +4,10 @@ Repo del proyecto para la materia Desarrollo de software (DSW)
 > Aplicación enfocada al seguimiento de ejercicios de calistenia y gimnasio. Brinda al usuario las herramientas para registrar su progreso en diferentes ejercicios, tambien está enfocada para entrenadores/monitores con el fin de crear rutinas para los alumnos. 
 
 ### Concepto gráfico
->https://www.figma.com/proto/DGI2n58dFG3jgukQh3O7ny/Waby-%F0%9F%92%AA%F0%9F%8F%BB?node-id=0-1&t=8Wk2amQxUilviQzy-1
+> <a href = "https://www.figma.com/proto/DGI2n58dFG3jgukQh3O7ny/Waby-%F0%9F%92%AA%F0%9F%8F%BB?node-id=0-1&t=8Wk2amQxUilviQzy-1">Proyecto en figma</a>
 
 ### DER y Digrama de clases
-<a href="https://github.com/Eliasusu/Proyecto-Waby/blob/main/Waby%20Diagrama%20de%20clases%20y%20DER.drawio.pdf" target = "_blank">Waby DER y diagrama de clases</a>
+<a href="https://github.com/Eliasusu/Proyecto-Waby/blob/main/Waby%20Diagrama%20ER%20y%20Clases.pdf" target = "_blank">Waby DER y diagrama de clases</a>
 
 ## Tareas pendientes 📃
 - [x] Elegir que framework se utilizará para el FE y BE
