@@ -7,7 +7,7 @@ Repo del proyecto para la materia Desarrollo de software (DSW)
 >https://www.figma.com/proto/DGI2n58dFG3jgukQh3O7ny/Waby-%F0%9F%92%AA%F0%9F%8F%BB?node-id=0-1&t=8Wk2amQxUilviQzy-1
 
 ### DER y Digrama de clases
-<a href="" target = "_blank">Waby</a>
+<a href="https://github.com/Eliasusu/Proyecto-Waby/blob/main/Waby%20Diagrama%20de%20clases%20y%20DER.drawio.pdf" target = "_blank">Waby DER y diagrama de clases</a>
 
 ## Tareas pendientes 📃
 - [x] Elegir que framework se utilizará para el FE y BE
