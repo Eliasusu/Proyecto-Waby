@@ -19,6 +19,10 @@ Repo del proyecto para la materia Desarrollo de software (DSW)
 - Listas de spotify vinculadas a rutinas
 - Tipo de cuentas (hibrido -> entrenador/estudiante)
 
+## Preguntas ❓
+- Puedo agregar sub carpetas dentro de schemas, models, controllers para separar Calistenia de gimnsasio?
+- 
+
 ## Links de utilidad 🔗
 - <a href = "https://github.com/utnfrrodsw/desarrollo-de-software" target = "_blank">Repo de DSW</a>
 - <a href = "https://www.markdownguide.org/basic-syntax/#blockquotes-with-other-elements" target = "_blank">Sintaxis basica Markdown</a>
