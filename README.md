@@ -22,6 +22,7 @@ Repo del proyecto para la materia Desarrollo de software (DSW)
 ## Preguntas ❓
 - Puedo agregar sub carpetas dentro de schemas, models, controllers para separar Calistenia de gimnsasio?
 - Que debo hacer dentro de la carpeta schemas y models?
+- Si yo tengo ejercicios de calistenia que tienen progresiones que pueden ser de repeticiones o segundos. A la hora de cargar una meta de calistenia, la subclase 'Meta calistenia' ¿Debería bifurcarla por 'Meta calistenia seg' y 'Meta calistenia rep'? 
 
 ## Links de utilidad 🔗
 - <a href = "https://github.com/utnfrrodsw/desarrollo-de-software" target = "_blank">Repo de DSW</a>
