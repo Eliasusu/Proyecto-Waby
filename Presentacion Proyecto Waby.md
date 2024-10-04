@@ -29,8 +29,8 @@ Aplicación enfocada al seguimiento de ejercicios de calistenia y gimnasio. Brin
 ### Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
-|CRUD |1. CRUD Usuario<br>2. CRUD Tipo entrenamiento<br>3. CRUD Ejercicio<br>4. CRUD Entrenamiento<br>5. CRUD Mesociclo<br>6. CRUD Meta|
-|CUU/Epic|1. Crear rutina para un mesociclo<br>2. Registrar una meta<br>|
+|CRUD |1. CRUD Usuario<br>2. CRUD Tipo entrenamiento<br>3. CRUD Ejercicio<br>4. CRUD Entrenamiento<br>|
+|CUU/Epic|1. Crear rutina |
 
 ### Alcance Adicional Voluntario
 
@@ -39,5 +39,5 @@ En progreso
 |Req|Detalle|
 |:-|:-|
 |Listados |1. Listar ejercicios filtrando por grupo muscular y (dependiendo del usuario) tipo de entrenamiento<br>|
-|CUU/Epic|1. Generar un nuevo mesociclo<br>2. Crear rutina<br>3. Ingresar una meta<br>4. Ingresar un progeso|
+|CUU/Epic|1. Crear rutina|
 |Otros||
