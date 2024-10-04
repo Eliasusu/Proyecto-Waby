@@ -29,7 +29,7 @@ Aplicación enfocada al seguimiento de ejercicios de calistenia y gimnasio. Brin
 ### Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
-|CRUD |1. CRUD Usuario<br>2. CRUD Tipo entrenamiento<br>3. CRUD Ejercicio<br>4. CRUD Entrenamiento<br>|
+|CRUD |1. CRUD Usuario<br>2. CRUD Tipo entrenamiento<br>3. CRUD Grupos Musculares<br>4. CRUD Entrenamiento<br>|
 |CUU/Epic|1. Crear rutina 2.Ejercicio |
 
 ### Alcance Adicional Voluntario
